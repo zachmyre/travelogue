@@ -18,5 +18,8 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
+  images: {
+    domains: ['cdn.rareblocks.xyz'],
+  },
 };
 export default config;
